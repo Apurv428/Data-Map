@@ -15,7 +15,6 @@ The user can also navigate to maps of the reccomended movies by just clicking on
 * **HTML/CSS/JS** and **React** are used for building the UI and other features of the website. 
 * **TMDB 5000 Movie DataSet** is used for displaying movie info.
 * GitHub repo link: [GitHub](https://github.com/Apurv428/Data-Map)
-* Website link: [Website](https://data-map.vercel.app/)
 
 ## Technology stack
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="31px" height="31px"></a>
